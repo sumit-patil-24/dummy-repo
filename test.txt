@@ -1,1 +1,1 @@
-my_secre=123
+my_secret=123
